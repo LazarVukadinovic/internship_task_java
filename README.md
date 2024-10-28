@@ -19,3 +19,23 @@ A simple desktop application developed as a test task, using Java and Swing, to 
    ```bash
    git clone https://github.com/LazarVukadinovic/internship_task_java.git
    cd internship_task_java
+
+2. **Compile and Run**:
+   ```bash
+   javac MarkdownTask.java
+   java MarkdownTask
+
+3. **Usage**:
+- Launch the application.
+- Click on the Load File button to open a file chooser.
+- Select a *.md* file from your disk.
+- The content of the file will be displayed in the text area without formatting.
+
+## **Technologies Used**:
+
+- Java
+- Swing (for GUI)
+
+## Author
+
+- **Lazar Vukadinovic** - [GitHub Profile](https://github.com/LazarVukadinovic)
