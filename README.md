@@ -28,7 +28,7 @@ A simple desktop application developed as a test task, using Java and Swing, to 
 3. **Usage**:
 - Launch the application.
 - Click on the Load File button to open a file chooser.
-- Select a *.md* file from your disk.
+- Select a `.md` file from your disk.
 - The content of the file will be displayed in the text area without formatting.
 
 ## **Technologies Used**:
